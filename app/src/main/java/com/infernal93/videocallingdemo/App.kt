@@ -7,10 +7,10 @@ import com.quickblox.auth.session.QBSettings
 import com.quickblox.users.model.QBUser
 
 class App : Application() {
-    private val applicationID = "76828"
-    private val authKey = "a7fEr7mvtWJkwft"
-    private val authSecret = "TNTCWLrHwfafGRa"
-    private val accountKey = "fAfq-X3tZ-VirgyMHxNn"
+    private val applicationID = "81024"
+    private val authKey = "8KDkxvuFtBS3SCm"
+    private val authSecret = "Dev5sTHcJsDastu"
+    private val accountKey = "gA8s36BjfS4sa-Kw2zWe"
 
     override fun onCreate() {
         super.onCreate()
